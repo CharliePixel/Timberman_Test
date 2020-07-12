@@ -1,0 +1,2917 @@
+fileFormatVersion: 2
+guid: 815f1f206bd78cb44bdf81637483069f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -791522460894668239
+    second: Tilemap_LVL1_Cave_0
+  - first:
+      213: 2216006545428588641
+    second: Tilemap_LVL1_Cave_1
+  - first:
+      213: -6837096503358222685
+    second: Tilemap_LVL1_Cave_2
+  - first:
+      213: -5170004622254806726
+    second: Tilemap_LVL1_Cave_3
+  - first:
+      213: 4231741286094698025
+    second: Tilemap_LVL1_Cave_4
+  - first:
+      213: 2769913098422346822
+    second: Tilemap_LVL1_Cave_5
+  - first:
+      213: -2054447693522493122
+    second: Tilemap_LVL1_Cave_6
+  - first:
+      213: -7007808367242843843
+    second: Tilemap_LVL1_Cave_7
+  - first:
+      213: -2320144334324489098
+    second: Tilemap_LVL1_Cave_8
+  - first:
+      213: 7073000617713905836
+    second: Tilemap_LVL1_Cave_9
+  - first:
+      213: 6352379070920615663
+    second: Tilemap_LVL1_Cave_10
+  - first:
+      213: -8156918742559984619
+    second: Tilemap_LVL1_Cave_11
+  - first:
+      213: -4707094621457966028
+    second: Tilemap_LVL1_Cave_12
+  - first:
+      213: 5066472938185976406
+    second: Tilemap_LVL1_Cave_13
+  - first:
+      213: -5278331142294147193
+    second: Tilemap_LVL1_Cave_14
+  - first:
+      213: -6809526275451008373
+    second: Tilemap_LVL1_Cave_15
+  - first:
+      213: 5051796638518783515
+    second: Tilemap_LVL1_Cave_16
+  - first:
+      213: 6852550436823858049
+    second: Tilemap_LVL1_Cave_17
+  - first:
+      213: -2705200407334614502
+    second: Tilemap_LVL1_Cave_18
+  - first:
+      213: -86891344928213667
+    second: Tilemap_LVL1_Cave_19
+  - first:
+      213: -3236300799280884201
+    second: Tilemap_LVL1_Cave_20
+  - first:
+      213: 7501076038278464708
+    second: Tilemap_LVL1_Cave_21
+  - first:
+      213: 33466955393517065
+    second: Tilemap_LVL1_Cave_22
+  - first:
+      213: 8398791118517548821
+    second: Tilemap_LVL1_Cave_23
+  - first:
+      213: 7231115663792970846
+    second: Tilemap_LVL1_Cave_24
+  - first:
+      213: -5728090645869522249
+    second: Tilemap_LVL1_Cave_25
+  - first:
+      213: -2608665847156434408
+    second: Tilemap_LVL1_Cave_26
+  - first:
+      213: 2010095786673047135
+    second: Tilemap_LVL1_Cave_27
+  - first:
+      213: -9076003689749273153
+    second: Tilemap_LVL1_Cave_28
+  - first:
+      213: -2778614557906936127
+    second: Tilemap_LVL1_Cave_29
+  - first:
+      213: 3807228478325397375
+    second: Tilemap_LVL1_Cave_30
+  - first:
+      213: -268492209259870990
+    second: Tilemap_LVL1_Cave_31
+  - first:
+      213: -6703510419012418342
+    second: Tilemap_LVL1_Cave_32
+  - first:
+      213: 5147028064051023506
+    second: Tilemap_LVL1_Cave_33
+  - first:
+      213: -2858550978256733776
+    second: Tilemap_LVL1_Cave_34
+  - first:
+      213: 8220555072946863582
+    second: Tilemap_LVL1_Cave_35
+  - first:
+      213: -5752321215760484064
+    second: Tilemap_LVL1_Cave_36
+  - first:
+      213: 2145884973150844924
+    second: Tilemap_LVL1_Cave_37
+  - first:
+      213: 227748729689310738
+    second: Tilemap_LVL1_Cave_38
+  - first:
+      213: 1072701978509178816
+    second: Tilemap_LVL1_Cave_39
+  - first:
+      213: 6319047856783519993
+    second: Tilemap_LVL1_Cave_40
+  - first:
+      213: 6819631743194080250
+    second: Tilemap_LVL1_Cave_41
+  - first:
+      213: -2842785330129165112
+    second: Tilemap_LVL1_Cave_42
+  - first:
+      213: -1250579940428428408
+    second: Tilemap_LVL1_Cave_43
+  - first:
+      213: 1887429972405146762
+    second: Tilemap_LVL1_Cave_44
+  - first:
+      213: -5326781545655718221
+    second: Tilemap_LVL1_Cave_45
+  - first:
+      213: 4373134369129192739
+    second: Tilemap_LVL1_Cave_0
+  - first:
+      213: -3368696456989062377
+    second: Tilemap_LVL1_Cave_1
+  - first:
+      213: -536624651611037976
+    second: Tilemap_LVL1_Cave_2
+  - first:
+      213: -6599011224994193242
+    second: Tilemap_LVL1_Cave_3
+  - first:
+      213: -8853159164186667064
+    second: Tilemap_LVL1_Cave_4
+  - first:
+      213: 4008679969138572426
+    second: Tilemap_LVL1_Cave_5
+  - first:
+      213: -1852183409776112403
+    second: Tilemap_LVL1_Cave_6
+  - first:
+      213: -7924088658609064464
+    second: Tilemap_LVL1_Cave_7
+  - first:
+      213: 3644820433326352777
+    second: Tilemap_LVL1_Cave_8
+  - first:
+      213: -2226168326246647478
+    second: Tilemap_LVL1_Cave_9
+  - first:
+      213: -663793612291044988
+    second: Tilemap_LVL1_Cave_10
+  - first:
+      213: 7569663817397855921
+    second: Tilemap_LVL1_Cave_11
+  - first:
+      213: 4965777766760601463
+    second: Tilemap_LVL1_Cave_12
+  - first:
+      213: -2395493907852788894
+    second: Tilemap_LVL1_Cave_13
+  - first:
+      213: -8385351618684502647
+    second: Tilemap_LVL1_Cave_14
+  - first:
+      213: -3720904749144640233
+    second: Tilemap_LVL1_Cave_15
+  - first:
+      213: 8614919464012889519
+    second: Tilemap_LVL1_Cave_16
+  - first:
+      213: 7723297870478965184
+    second: Tilemap_LVL1_Cave_17
+  - first:
+      213: 3388344346664495140
+    second: Tilemap_LVL1_Cave_18
+  - first:
+      213: -1901983191306633817
+    second: Tilemap_LVL1_Cave_19
+  - first:
+      213: -5046549036069840241
+    second: Tilemap_LVL1_Cave_20
+  - first:
+      213: 4869563660690691448
+    second: Tilemap_LVL1_Cave_21
+  - first:
+      213: -7784255158221304088
+    second: Tilemap_LVL1_Cave_22
+  - first:
+      213: -7096901238788016731
+    second: Tilemap_LVL1_Cave_23
+  - first:
+      213: 6676832265490137119
+    second: Tilemap_LVL1_Cave_24
+  - first:
+      213: -4783064211588431601
+    second: Tilemap_LVL1_Cave_25
+  - first:
+      213: 4127558861143499997
+    second: Tilemap_LVL1_Cave_26
+  - first:
+      213: -7730943701907599491
+    second: Tilemap_LVL1_Cave_27
+  - first:
+      213: 8548075140470853264
+    second: Tilemap_LVL1_Cave_28
+  - first:
+      213: 9002466671341725277
+    second: Tilemap_LVL1_Cave_29
+  - first:
+      213: 7742342554688836931
+    second: Tilemap_LVL1_Cave_30
+  - first:
+      213: -2264510348121234721
+    second: Tilemap_LVL1_Cave_31
+  - first:
+      213: 8475494288804597666
+    second: Tilemap_LVL1_Cave_32
+  - first:
+      213: -2126212551801243007
+    second: Tilemap_LVL1_Cave_33
+  - first:
+      213: -7752606725330159416
+    second: Tilemap_LVL1_Cave_34
+  - first:
+      213: -5873109524288154108
+    second: Tilemap_LVL1_Cave_35
+  - first:
+      213: 1313303680545143537
+    second: Tilemap_LVL1_Cave_36
+  - first:
+      213: -4012670305153770906
+    second: Tilemap_LVL1_Cave_37
+  - first:
+      213: 3541275382138094184
+    second: Tilemap_LVL1_Cave_38
+  - first:
+      213: -7027674473988020831
+    second: Tilemap_LVL1_Cave_39
+  - first:
+      213: 8341107666354010101
+    second: Tilemap_LVL1_Cave_40
+  - first:
+      213: -439600412172624669
+    second: Tilemap_LVL1_Cave_41
+  - first:
+      213: -3379660406441966274
+    second: Tilemap_LVL1_Cave_42
+  - first:
+      213: 4798525712450944163
+    second: Tilemap_LVL1_Cave_43
+  - first:
+      213: 7477361315288061705
+    second: Tilemap_LVL1_Cave_44
+  - first:
+      213: -8340771483316621433
+    second: Tilemap_LVL1_Cave_45
+  - first:
+      213: 5515748502702905622
+    second: Tilemap_LVL1_Cave_46
+  - first:
+      213: -5237897271296723989
+    second: Tilemap_LVL1_Cave_47
+  - first:
+      213: 6127882129828547184
+    second: Tilemap_LVL1_Cave_48
+  - first:
+      213: -4517743644295759082
+    second: Tilemap_LVL1_Cave_49
+  - first:
+      213: 3006164106396186372
+    second: Tilemap_LVL1_Cave_50
+  - first:
+      213: -8726643995170612781
+    second: Tilemap_LVL1_Cave_46
+  - first:
+      213: -1765721844457528521
+    second: Tilemap_LVL1_Cave_47
+  - first:
+      213: -6337590473507089817
+    second: Tilemap_LVL1_Cave_48
+  - first:
+      213: 4280995303274657531
+    second: Tilemap_LVL1_Cave_49
+  - first:
+      213: -1168488346970947446
+    second: Tilemap_LVL1_Cave_50
+  - first:
+      213: 1710417913673959534
+    second: Tilemap_LVL1_Cave_51
+  - first:
+      213: -847811826838716340
+    second: Tilemap_LVL1_Cave_52
+  - first:
+      213: 8305563326233711567
+    second: Tilemap_LVL1_Cave_53
+  - first:
+      213: 7092391259020222953
+    second: Tilemap_LVL1_Cave_54
+  - first:
+      213: -2385782765876228664
+    second: Tilemap_LVL1_Cave_55
+  - first:
+      213: -3795677572502440525
+    second: Tilemap_LVL1_Cave_56
+  - first:
+      213: 5868117806381112373
+    second: Tilemap_LVL1_Cave_57
+  - first:
+      213: -3560188462013355087
+    second: Tilemap_LVL1_Cave_58
+  - first:
+      213: 6019638749724848712
+    second: Tilemap_LVL1_Cave_59
+  - first:
+      213: -829870561275782659
+    second: Tilemap_LVL1_Cave_60
+  - first:
+      213: 9134167516611019521
+    second: Tilemap_LVL1_Cave_61
+  - first:
+      213: -6763082235076624746
+    second: Tilemap_LVL1_Cave_62
+  - first:
+      213: -1106098050085727293
+    second: Tilemap_LVL1_Cave_63
+  - first:
+      213: -3587524138398734111
+    second: Tilemap_LVL1_Cave_64
+  - first:
+      213: -5368666843409184726
+    second: Tilemap_LVL1_Cave_51
+  - first:
+      213: -2086566376078723358
+    second: Tilemap_LVL1_Cave_52
+  - first:
+      213: 8048124689097373878
+    second: Tilemap_LVL1_Cave_53
+  - first:
+      213: -8968554911885544505
+    second: Tilemap_LVL1_Cave_54
+  - first:
+      213: -4858346056566364232
+    second: Tilemap_LVL1_Cave_55
+  - first:
+      213: 5341911956914349585
+    second: Tilemap_LVL1_Cave_56
+  - first:
+      213: -7705097937196231790
+    second: Tilemap_LVL1_Cave_57
+  - first:
+      213: 2805022229015529392
+    second: Tilemap_LVL1_Cave_58
+  - first:
+      213: -4328298588031367768
+    second: Tilemap_LVL1_Cave_59
+  - first:
+      213: 8470208697766167004
+    second: Tilemap_LVL1_Cave_60
+  - first:
+      213: 7026914254444450275
+    second: Tilemap_LVL1_Cave_61
+  - first:
+      213: -3471251463519878233
+    second: Tilemap_LVL1_Cave_62
+  - first:
+      213: 8856388514173871992
+    second: Tilemap_LVL1_Cave_63
+  - first:
+      213: 4020382594830730746
+    second: Tilemap_LVL1_Cave_64
+  - first:
+      213: 8040876687953895141
+    second: Tilemap_LVL1_Cave_65
+  - first:
+      213: 7130357798989930478
+    second: Tilemap_LVL1_Cave_66
+  - first:
+      213: -3406709359661167510
+    second: Tilemap_LVL1_Cave_67
+  - first:
+      213: -4807844326452071174
+    second: Tilemap_LVL1_Cave_68
+  - first:
+      213: -1513644574419281248
+    second: Tilemap_LVL1_Cave_69
+  - first:
+      213: -7860962992743325644
+    second: Tilemap_LVL1_Cave_70
+  - first:
+      213: 284176405026383708
+    second: Tilemap_LVL1_Cave_71
+  - first:
+      213: 7239110896178768640
+    second: Tilemap_LVL1_Cave_72
+  - first:
+      213: -3185214762229330118
+    second: Tilemap_LVL1_Cave_73
+  - first:
+      213: 5176631236592448446
+    second: Tilemap_LVL1_Cave_74
+  - first:
+      213: -3692590922032779729
+    second: Tilemap_LVL1_Cave_75
+  - first:
+      213: -8117146860485048836
+    second: Tilemap_LVL1_Cave_76
+  - first:
+      213: -7588640746117025951
+    second: Tilemap_LVL1_Cave_77
+  - first:
+      213: 3399061330761512792
+    second: Tilemap_LVL1_Cave_78
+  - first:
+      213: -1217106113118184379
+    second: Tilemap_LVL1_Cave_79
+  - first:
+      213: -6572023414598756625
+    second: Tilemap_LVL1_Cave_80
+  - first:
+      213: -2009230114599490138
+    second: Tilemap_LVL1_Cave_81
+  - first:
+      213: -7848898540464044899
+    second: Tilemap_LVL1_Cave_82
+  - first:
+      213: 5937708128684277896
+    second: Tilemap_LVL1_Cave_83
+  - first:
+      213: 3366519000605998726
+    second: Tilemap_LVL1_Cave_84
+  - first:
+      213: -2007093431275957662
+    second: Tilemap_LVL1_Cave_85
+  - first:
+      213: 5786310475637677887
+    second: Tilemap_LVL1_Cave_86
+  - first:
+      213: 4029985204911082260
+    second: Tilemap_LVL1_Cave_87
+  - first:
+      213: 1547942389012570311
+    second: Tilemap_LVL1_Cave_88
+  - first:
+      213: -4042190349420260327
+    second: Tilemap_LVL1_Cave_89
+  - first:
+      213: 6163184785940661970
+    second: Tilemap_LVL1_Cave_90
+  - first:
+      213: -8656108349160148022
+    second: Tilemap_LVL1_Cave_91
+  - first:
+      213: -7620283340834268494
+    second: Tilemap_LVL1_Cave_92
+  - first:
+      213: -6054857983035725736
+    second: Tilemap_LVL1_Cave_93
+  - first:
+      213: -6280967776773290300
+    second: Tilemap_LVL1_Cave_94
+  - first:
+      213: 5199208942225075760
+    second: Tilemap_LVL1_Cave_95
+  - first:
+      213: -8089715952238145369
+    second: Tilemap_LVL1_Cave_96
+  - first:
+      213: 2562924485414875537
+    second: Tilemap_LVL1_Cave_97
+  - first:
+      213: 7669190524646472037
+    second: Tilemap_LVL1_Cave_98
+  - first:
+      213: -3274730309481206005
+    second: Tilemap_LVL1_Cave_99
+  - first:
+      213: -8496449010564421289
+    second: Tilemap_LVL1_Cave_100
+  - first:
+      213: -3200037287529981030
+    second: Tilemap_LVL1_Cave_101
+  - first:
+      213: 7537412159152999705
+    second: Tilemap_LVL1_Cave_102
+  - first:
+      213: 5883188726936916879
+    second: Tilemap_LVL1_Cave_103
+  - first:
+      213: 6641103533793198652
+    second: Tilemap_LVL1_Cave_104
+  - first:
+      213: 4819750897543678363
+    second: Tilemap_LVL1_Cave_105
+  - first:
+      213: 8049131215488621531
+    second: Tilemap_LVL1_Cave_106
+  - first:
+      213: 7925855303613417560
+    second: Tilemap_LVL1_Cave_107
+  - first:
+      213: 8197353259899694698
+    second: Tilemap_LVL1_Cave_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5ff2f98e70bc30800000000000000
+      internalID: 4373134369129192739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bcc05ab6cff31d0800000000000000
+      internalID: -3368696456989062377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee9107f8b68d88f0800000000000000
+      internalID: -536624651611037976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e761014a9b64a0800000000000000
+      internalID: -6599011224994193242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d8ae65a2432580800000000000000
+      internalID: -8853159164186667064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c7aba6131b1a730800000000000000
+      internalID: 4008679969138572426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec4c698009bb46e0800000000000000
+      internalID: -1852183409776112403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b7ee395bf70290800000000000000
+      internalID: -7924088658609064464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a08e7fd0059230800000000000000
+      internalID: 3644820433326352777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b7d7b3bf0b11e0800000000000000
+      internalID: -2226168326246647478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489083ff93bb9c6f0800000000000000
+      internalID: -663793612291044988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66029d229dc0960800000000000000
+      internalID: 7569663817397855921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7775c4da19cf9e440800000000000000
+      internalID: 4965777766760601463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b72d09bfe71ced0800000000000000
+      internalID: -2395493907852788894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d309b512f31ab80800000000000000
+      internalID: -8385351618684502647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7157b2848d0bc5cc0800000000000000
+      internalID: -3720904749144640233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad3615db975e8770800000000000000
+      internalID: 8614919464012889519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9fd605e7aae2b60800000000000000
+      internalID: 7723297870478965184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e3a72b31d50f20800000000000000
+      internalID: 3388344346664495140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad77695d5cca95e0800000000000000
+      internalID: -1901983191306633817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a9773b36e07f9b0800000000000000
+      internalID: -5046549036069840241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759e9e695a249340800000000000000
+      internalID: 4869563660690691448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee87352d25c8f390800000000000000
+      internalID: -7784255158221304088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5b200acedb28d90800000000000000
+      internalID: -7096901238788016731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100861f19fd8ac50800000000000000
+      internalID: 6676832265490137119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01436af0742f9db0800000000000000
+      internalID: -4783064211588431601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd469fb5ae8084930800000000000000
+      internalID: 4127558861143499997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0145d9ab26b490800000000000000
+      internalID: -7730943701907599491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ecc15fc0dd0a670800000000000000
+      internalID: 8548075140470853264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56ed9f8dbf2fec70800000000000000
+      internalID: 9002466671341725277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455e956883527b60800000000000000
+      internalID: 7742342554688836931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a90616d7d290e0800000000000000
+      internalID: -2264510348121234721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afcc0c86210f9570800000000000000
+      internalID: 8475494288804597666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af8e403fc2e72e0800000000000000
+      internalID: -2126212551801243007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c834652245396490800000000000000
+      internalID: -7752606725330159416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40657d531068e7ea0800000000000000
+      internalID: -5873109524288154108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa3b114dbac93210800000000000000
+      internalID: 1313303680545143537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a1d841e912058c0800000000000000
+      internalID: -4012670305153770906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8624d249233252130800000000000000
+      internalID: 3541275382138094184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52dd4dc4fa87e90800000000000000
+      internalID: -7027674473988020831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7715eba3191c370800000000000000
+      internalID: 8341107666354010101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd55511c936e9f0800000000000000
+      internalID: -439600412172624669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35039c34c80911d0800000000000000
+      internalID: -3379660406441966274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac773836b9c79240800000000000000
+      internalID: 4798525712450944163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071efedf7ce4c760800000000000000
+      internalID: 7477361315288061705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6438f680af3c80800000000000000
+      internalID: -8340771483316621433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95f8aa58bb4e680800000000000000
+      internalID: -8726643995170612781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73326f07655ee77e0800000000000000
+      internalID: -1765721844457528521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762d5b6da0b5c08a0800000000000000
+      internalID: -6337590473507089817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63dc0fb86296b30800000000000000
+      internalID: 4280995303274657531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800d921a02b8cfe0800000000000000
+      internalID: -1168488346970947446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a288d2943f9ae75b0800000000000000
+      internalID: -5368666843409184726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6bd81afe60b03e0800000000000000
+      internalID: -2086566376078723358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b833b193cea0bf60800000000000000
+      internalID: 8048124689097373878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c33a7833da498380800000000000000
+      internalID: -8968554911885544505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7217e8000b39cb0800000000000000
+      internalID: -4858346056566364232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116aa454f98422a40800000000000000
+      internalID: 5341911956914349585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d2dddf3ef11590800000000000000
+      internalID: -7705097937196231790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78b8b0bd07de620800000000000000
+      internalID: 2805022229015529392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5c092dd5bcee3c0800000000000000
+      internalID: -4328298588031367768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_60
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c6cbfee93c8570800000000000000
+      internalID: 8470208697766167004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15a43c84d948160800000000000000
+      internalID: 7026914254444450275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3c7d67f23a3dfc0800000000000000
+      internalID: -3471251463519878233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877ee243e6638ea70800000000000000
+      internalID: 8856388514173871992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58c0a4ba44bc730800000000000000
+      internalID: 4020382594830730746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee163ccebee69f60800000000000000
+      internalID: 8040876687953895141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1b32d3ae14f260800000000000000
+      internalID: 7130357798989930478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc56c03efe8b0d0800000000000000
+      internalID: -3406709359661167510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47272ee0b174db0800000000000000
+      internalID: -4807844326452071174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa9a8977447efae0800000000000000
+      internalID: -1513644574419281248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ea09aecf38e290800000000000000
+      internalID: -7860962992743325644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57252b4fe891f300800000000000000
+      internalID: 284176405026383708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b2560710d767460800000000000000
+      internalID: 7239110896178768640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8dfbbc08dbc3d0800000000000000
+      internalID: -3185214762229330118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b846cea617d740800000000000000
+      internalID: 5176631236592448446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e676fde1841ccc0800000000000000
+      internalID: -3692590922032779729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58c17dfe91a5f80800000000000000
+      internalID: -8117146860485048836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa3af927bbfa690800000000000000
+      internalID: -7588640746117025951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577ec57544eb2f20800000000000000
+      internalID: 3399061330761512792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c52a94078fb1fe0800000000000000
+      internalID: -1217106113118184379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69a45468b7bc4a0800000000000000
+      internalID: -6572023414598756625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada74b2bd7cd14e0800000000000000
+      internalID: -2009230114599490138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d940f89dc5c131390800000000000000
+      internalID: -7848898540464044899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800d2e651af66250800000000000000
+      internalID: 5937708128684277896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e39b8c13748be20800000000000000
+      internalID: 3366519000605998726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d6c5882f5524e0800000000000000
+      internalID: -2007093431275957662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f518c68ba1d4050800000000000000
+      internalID: 5786310475637677887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0ecc21326de730800000000000000
+      internalID: 4029985204911082260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c02dd5c6656b7510800000000000000
+      internalID: 1547942389012570311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141b4c2b4147e7c0800000000000000
+      internalID: -4042190349420260327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6c51ba8e7088550800000000000000
+      internalID: 6163184785940661970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3340781535fd780800000000000000
+      internalID: -8656108349160148022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1fbdeca05f3690800000000000000
+      internalID: -7620283340834268494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a7b39eb2d8fba0800000000000000
+      internalID: -6054857983035725736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c0c3c51585d8a0800000000000000
+      internalID: -6280967776773290300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e2c528cfc472840800000000000000
+      internalID: 5199208942225075760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0d80dd33e8bbf80800000000000000
+      internalID: -8089715952238145369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191fd439d36519320800000000000000
+      internalID: 2562924485414875537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569385826207e6a60800000000000000
+      internalID: 7669190524646472037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fea204222dd82d0800000000000000
+      internalID: -3274730309481206005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a61914ac861a80800000000000000
+      internalID: -8496449010564421289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b55c0aa0f2793d0800000000000000
+      internalID: -3200037287529981030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d46008c644a9860800000000000000
+      internalID: 7537412159152999705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8358a70af845a150800000000000000
+      internalID: 5883188726936916879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32c5585a70f92c50800000000000000
+      internalID: 6641103533793198652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9906f9b7e133e240800000000000000
+      internalID: 4819750897543678363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb15b1c13244bf60800000000000000
+      internalID: 8049131215488621531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8580609d76b4efd60800000000000000
+      internalID: 7925855303613417560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_LVL1_Cave_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e26b2cb59d2c170800000000000000
+      internalID: 8197353259899694698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8c6948c92026fdd459cf7717ff9b6071, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Water_Ground_Right_B
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 8132038987302396322, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -4571121789400413588, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -5637210774251171316, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: 3257909718748946891, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -2031818588980370393, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -3971871293146396265, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: 8218479400229141132, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -2155683317664972756, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -6795042379785699935, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -4043770193376433416, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: 8896551570427455291, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -1251268127687570177, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: 4764705992643758433, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: 5077432484937312100, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: 9024808259461825060, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  - {fileID: -2409775529240704767, guid: 13785c7c12b7657418f75edee06730ea, type: 3}
+  m_MinSpeed: 14
+  m_MaxSpeed: 14
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
