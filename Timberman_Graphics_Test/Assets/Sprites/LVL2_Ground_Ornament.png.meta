@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: d109fb63b9df2db41a7f13876d8aa459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6120065035412251948
+    second: LVL2_Ground_Ornament_0
+  - first:
+      213: -765280842616075915
+    second: LVL2_Ground_Ornament_1
+  - first:
+      213: -1365091060754946660
+    second: LVL2_Ground_Ornament_2
+  - first:
+      213: -1935308464653487054
+    second: LVL2_Ground_Ornament_3
+  - first:
+      213: 4089680837449556824
+    second: LVL2_Ground_Ornament_4
+  - first:
+      213: 171303607028632416
+    second: LVL2_Ground_Ornament_5
+  - first:
+      213: 3820902808159464675
+    second: LVL2_Ground_Ornament_6
+  - first:
+      213: -8184184365730296664
+    second: LVL2_Ground_Ornament_7
+  - first:
+      213: 1560047367787059684
+    second: LVL2_Ground_Ornament_8
+  - first:
+      213: -4786410592699444529
+    second: LVL2_Ground_Ornament_9
+  - first:
+      213: -1936566965360228128
+    second: LVL2_Ground_Ornament_10
+  - first:
+      213: 5851476420690949894
+    second: LVL2_Ground_Ornament_11
+  - first:
+      213: 859469649416043059
+    second: LVL2_Ground_Ornament_12
+  - first:
+      213: 6382103327352586944
+    second: LVL2_Ground_Ornament_13
+  - first:
+      213: -6507149945891966527
+    second: LVL2_Ground_Ornament_14
+  - first:
+      213: 6586100010474099413
+    second: LVL2_Ground_Ornament_15
+  - first:
+      213: 2091159144171671078
+    second: LVL2_Ground_Ornament_16
+  - first:
+      213: -5457521024869268515
+    second: LVL2_Ground_Ornament_17
+  - first:
+      213: 6374512931865165812
+    second: LVL2_Ground_Ornament_18
+  - first:
+      213: -8667700535030627836
+    second: LVL2_Ground_Ornament_19
+  - first:
+      213: 2795946645514161630
+    second: LVL2_Ground_Ornament_20
+  - first:
+      213: 4059105409382318677
+    second: LVL2_Ground_Ornament_21
+  - first:
+      213: 7100979549755980446
+    second: LVL2_Ground_Ornament_22
+  - first:
+      213: -5060910644204423700
+    second: LVL2_Ground_Ornament_23
+  - first:
+      213: 740601983913862236
+    second: LVL2_Ground_Ornament_24
+  - first:
+      213: -8011211373001139556
+    second: LVL2_Ground_Ornament_25
+  - first:
+      213: -7949966483922520645
+    second: LVL2_Ground_Ornament_26
+  - first:
+      213: 4689651329308970171
+    second: LVL2_Ground_Ornament_27
+  - first:
+      213: 7073902851990851622
+    second: LVL2_Ground_Ornament_28
+  - first:
+      213: -8670997749004855706
+    second: LVL2_Ground_Ornament_29
+  - first:
+      213: 588873916178291177
+    second: LVL2_Ground_Ornament_30
+  - first:
+      213: 7153575125862731867
+    second: LVL2_Ground_Ornament_31
+  - first:
+      213: 4972181251311422604
+    second: LVL2_Ground_Ornament_32
+  - first:
+      213: 1879160061929495984
+    second: LVL2_Ground_Ornament_33
+  - first:
+      213: -5542224789408745645
+    second: LVL2_Ground_Ornament_34
+  - first:
+      213: -1016522118250935257
+    second: LVL2_Ground_Ornament_35
+  - first:
+      213: 4669115589129309055
+    second: LVL2_Ground_Ornament_36
+  - first:
+      213: -8595759557936013528
+    second: LVL2_Ground_Ornament_37
+  - first:
+      213: -3480765631124236395
+    second: LVL2_Ground_Ornament_38
+  - first:
+      213: 127661822566364401
+    second: LVL2_Ground_Ornament_39
+  - first:
+      213: 1542894486735808622
+    second: LVL2_Ground_Ornament_40
+  - first:
+      213: 2835274178921733481
+    second: LVL2_Ground_Ornament_41
+  - first:
+      213: 9178482306760302443
+    second: LVL2_Ground_Ornament_42
+  - first:
+      213: 985109233978746511
+    second: LVL2_Ground_Ornament_43
+  - first:
+      213: -363501433255978210
+    second: LVL2_Ground_Ornament_44
+  - first:
+      213: -4570778029721405793
+    second: LVL2_Ground_Ornament_45
+  - first:
+      213: -6254665680852419267
+    second: LVL2_Ground_Ornament_46
+  - first:
+      213: 1824261204705383642
+    second: LVL2_Ground_Ornament_47
+  - first:
+      213: -543393475785631162
+    second: LVL2_Ground_Ornament_48
+  - first:
+      213: 8607976281648012031
+    second: LVL2_Ground_Ornament_49
+  - first:
+      213: -7697989740860082078
+    second: LVL2_Ground_Ornament_50
+  - first:
+      213: -2796126662333524046
+    second: LVL2_Ground_Ornament_51
+  - first:
+      213: 5621690883635607176
+    second: LVL2_Ground_Ornament_52
+  - first:
+      213: 4996505255304033165
+    second: LVL2_Ground_Ornament_53
+  - first:
+      213: -4254316381918366376
+    second: LVL2_Ground_Ornament_54
+  - first:
+      213: -507155514724648109
+    second: LVL2_Ground_Ornament_55
+  - first:
+      213: 5088931471001993657
+    second: LVL2_Ground_Ornament_56
+  - first:
+      213: -435836463713082534
+    second: LVL2_Ground_Ornament_57
+  - first:
+      213: 462313808790871374
+    second: LVL2_Ground_Ornament_58
+  - first:
+      213: -3939522645400942425
+    second: LVL2_Ground_Ornament_59
+  - first:
+      213: -1161661006330167092
+    second: LVL2_Ground_Ornament_0
+  - first:
+      213: -6702636349136028673
+    second: LVL2_Ground_Ornament_1
+  - first:
+      213: 3328853657597338233
+    second: LVL2_Ground_Ornament_2
+  - first:
+      213: 4693191566244971601
+    second: LVL2_Ground_Ornament_3
+  - first:
+      213: -5654123540343621806
+    second: LVL2_Ground_Ornament_4
+  - first:
+      213: -2430025656640916888
+    second: LVL2_Ground_Ornament_5
+  - first:
+      213: 6924595735448384864
+    second: LVL2_Ground_Ornament_6
+  - first:
+      213: 9180581979470775654
+    second: LVL2_Ground_Ornament_7
+  - first:
+      213: 9191811295093126868
+    second: LVL2_Ground_Ornament_8
+  - first:
+      213: 3395609155480441676
+    second: LVL2_Ground_Ornament_9
+  - first:
+      213: 690636135748320609
+    second: LVL2_Ground_Ornament_10
+  - first:
+      213: -486036458503089490
+    second: LVL2_Ground_Ornament_11
+  - first:
+      213: -6094133910805762923
+    second: LVL2_Ground_Ornament_12
+  - first:
+      213: -3682273104541304873
+    second: LVL2_Ground_Ornament_13
+  - first:
+      213: -7496021367019188805
+    second: LVL2_Ground_Ornament_14
+  - first:
+      213: -4877038172071050655
+    second: LVL2_Ground_Ornament_15
+  - first:
+      213: -1886446319473540793
+    second: LVL2_Ground_Ornament_16
+  - first:
+      213: -5589268108180508601
+    second: LVL2_Ground_Ornament_17
+  - first:
+      213: -5178191410044070930
+    second: LVL2_Ground_Ornament_18
+  - first:
+      213: 4915707271211705818
+    second: LVL2_Ground_Ornament_19
+  - first:
+      213: -4720671374467898009
+    second: LVL2_Ground_Ornament_20
+  - first:
+      213: 7581712243016612601
+    second: LVL2_Ground_Ornament_21
+  - first:
+      213: -6168917901904984699
+    second: LVL2_Ground_Ornament_22
+  - first:
+      213: 6119753557077148850
+    second: LVL2_Ground_Ornament_23
+  - first:
+      213: -8095752521887266388
+    second: LVL2_Ground_Ornament_24
+  - first:
+      213: -5867294899638501786
+    second: LVL2_Ground_Ornament_25
+  - first:
+      213: -2032560896354498373
+    second: LVL2_Ground_Ornament_26
+  - first:
+      213: -2627584734878208600
+    second: LVL2_Ground_Ornament_27
+  - first:
+      213: -7132098520633511203
+    second: LVL2_Ground_Ornament_28
+  - first:
+      213: -6823254106063953021
+    second: LVL2_Ground_Ornament_29
+  - first:
+      213: 2285709012880335298
+    second: LVL2_Ground_Ornament_30
+  - first:
+      213: 2809569836810952778
+    second: LVL2_Ground_Ornament_31
+  - first:
+      213: 6715549404963842191
+    second: LVL2_Ground_Ornament_32
+  - first:
+      213: -4126936719100349509
+    second: LVL2_Ground_Ornament_33
+  - first:
+      213: 8216273035489006059
+    second: LVL2_Ground_Ornament_34
+  - first:
+      213: -3593181703216951860
+    second: LVL2_Ground_Ornament_35
+  - first:
+      213: 2253489513367119106
+    second: LVL2_Ground_Ornament_36
+  - first:
+      213: 565279701159852550
+    second: LVL2_Ground_Ornament_37
+  - first:
+      213: 1079098066843478206
+    second: LVL2_Ground_Ornament_38
+  - first:
+      213: -6906310212180013358
+    second: LVL2_Ground_Ornament_39
+  - first:
+      213: 8671419410346939167
+    second: LVL2_Ground_Ornament_40
+  - first:
+      213: -6924326795070829708
+    second: LVL2_Ground_Ornament_41
+  - first:
+      213: -6841952512283854880
+    second: LVL2_Ground_Ornament_42
+  - first:
+      213: 1202241947221826928
+    second: LVL2_Ground_Ornament_43
+  - first:
+      213: -8081552511239718128
+    second: LVL2_Ground_Ornament_44
+  - first:
+      213: -8853003017442635789
+    second: LVL2_Ground_Ornament_45
+  - first:
+      213: 2845973661903191644
+    second: LVL2_Ground_Ornament_46
+  - first:
+      213: 7905057030598928369
+    second: LVL2_Ground_Ornament_47
+  - first:
+      213: 6544373289386598499
+    second: LVL2_Ground_Ornament_48
+  - first:
+      213: 2295160806111222015
+    second: LVL2_Ground_Ornament_49
+  - first:
+      213: 8677377809819782012
+    second: LVL2_Ground_Ornament_50
+  - first:
+      213: 8370818622656165451
+    second: LVL2_Ground_Ornament_51
+  - first:
+      213: 6262057367875675666
+    second: LVL2_Ground_Ornament_52
+  - first:
+      213: 212287721557938984
+    second: LVL2_Ground_Ornament_53
+  - first:
+      213: -3184165693571907349
+    second: LVL2_Ground_Ornament_54
+  - first:
+      213: 1074299346926094958
+    second: LVL2_Ground_Ornament_55
+  - first:
+      213: 1633127815897034541
+    second: LVL2_Ground_Ornament_56
+  - first:
+      213: -7113685632609840195
+    second: LVL2_Ground_Ornament_57
+  - first:
+      213: -779126017122312925
+    second: LVL2_Ground_Ornament_58
+  - first:
+      213: 7518083054288114276
+    second: LVL2_Ground_Ornament_59
+  - first:
+      213: 1498633242463024273
+    second: LVL2_Ground_Ornament_60
+  - first:
+      213: 459583623946835587
+    second: LVL2_Ground_Ornament_61
+  - first:
+      213: -6915398905830049474
+    second: LVL2_Ground_Ornament_62
+  - first:
+      213: 1509679026380767871
+    second: LVL2_Ground_Ornament_63
+  - first:
+      213: 6327699687468936931
+    second: LVL2_Ground_Ornament_64
+  - first:
+      213: -1347655036780473822
+    second: LVL2_Ground_Ornament_65
+  - first:
+      213: 2658157991170717929
+    second: LVL2_Ground_Ornament_66
+  - first:
+      213: -7393484588706649543
+    second: LVL2_Ground_Ornament_67
+  - first:
+      213: 103291766730132182
+    second: LVL2_Ground_Ornament_68
+  - first:
+      213: -5359238251207653282
+    second: LVL2_Ground_Ornament_69
+  - first:
+      213: 7433811671013550236
+    second: LVL2_Ground_Ornament_70
+  - first:
+      213: -5299246395904130573
+    second: LVL2_Ground_Ornament_71
+  - first:
+      213: -175748524226634092
+    second: LVL2_Ground_Ornament_72
+  - first:
+      213: 3142623896340568717
+    second: LVL2_Ground_Ornament_73
+  - first:
+      213: 224372776008393888
+    second: LVL2_Ground_Ornament_74
+  - first:
+      213: 4813751263245113207
+    second: LVL2_Ground_Ornament_75
+  - first:
+      213: -6551194708351026847
+    second: LVL2_Ground_Ornament_76
+  - first:
+      213: 1630762124857900818
+    second: LVL2_Ground_Ornament_77
+  - first:
+      213: -2079623115047042433
+    second: LVL2_Ground_Ornament_78
+  - first:
+      213: 992806095819588403
+    second: LVL2_Ground_Ornament_79
+  - first:
+      213: -3664603686443238925
+    second: LVL2_Ground_Ornament_80
+  - first:
+      213: 135620332100631094
+    second: LVL2_Ground_Ornament_81
+  - first:
+      213: -3744265171576736289
+    second: LVL2_Ground_Ornament_82
+  - first:
+      213: 7830253248672715911
+    second: LVL2_Ground_Ornament_83
+  - first:
+      213: 2665475934159906204
+    second: LVL2_Ground_Ornament_84
+  - first:
+      213: -5159943266332887527
+    second: LVL2_Ground_Ornament_85
+  - first:
+      213: 4076035440020853630
+    second: LVL2_Ground_Ornament_86
+  - first:
+      213: 7245475245147933777
+    second: LVL2_Ground_Ornament_87
+  - first:
+      213: 40614880379215962
+    second: LVL2_Ground_Ornament_88
+  - first:
+      213: 1522670109161831241
+    second: LVL2_Ground_Ornament_89
+  - first:
+      213: 6117395783433924180
+    second: LVL2_Ground_Ornament_90
+  - first:
+      213: -2539139843851286336
+    second: LVL2_Ground_Ornament_91
+  - first:
+      213: 8322049106669771826
+    second: LVL2_Ground_Ornament_92
+  - first:
+      213: 4983689043568444429
+    second: LVL2_Ground_Ornament_93
+  - first:
+      213: -1511543857150148284
+    second: LVL2_Ground_Ornament_94
+  - first:
+      213: 1530997340568305137
+    second: LVL2_Ground_Ornament_95
+  - first:
+      213: -3982734999852318145
+    second: LVL2_Ground_Ornament_96
+  - first:
+      213: -7770288744146367424
+    second: LVL2_Ground_Ornament_97
+  - first:
+      213: -1602795022432390061
+    second: LVL2_Ground_Ornament_98
+  - first:
+      213: -6687726023226347830
+    second: LVL2_Ground_Ornament_99
+  - first:
+      213: 5570836978297015046
+    second: LVL2_Ground_Ornament_100
+  - first:
+      213: 5878107897537831586
+    second: LVL2_Ground_Ornament_101
+  - first:
+      213: 2919639801188582366
+    second: LVL2_Ground_Ornament_102
+  - first:
+      213: -3083067198219416711
+    second: LVL2_Ground_Ornament_103
+  - first:
+      213: 4971824663261165573
+    second: LVL2_Ground_Ornament_60
+  - first:
+      213: -5781851164952202113
+    second: LVL2_Ground_Ornament_61
+  - first:
+      213: -7128226093401391863
+    second: LVL2_Ground_Ornament_62
+  - first:
+      213: 7769714401758418738
+    second: LVL2_Ground_Ornament_63
+  - first:
+      213: -4943796006605283498
+    second: LVL2_Ground_Ornament_64
+  - first:
+      213: -6756259877261497380
+    second: LVL2_Ground_Ornament_65
+  - first:
+      213: -7225649248298033871
+    second: LVL2_Ground_Ornament_66
+  - first:
+      213: -5118553859918410867
+    second: LVL2_Ground_Ornament_67
+  - first:
+      213: -3388301673232418675
+    second: LVL2_Ground_Ornament_68
+  - first:
+      213: 1828543653648198200
+    second: LVL2_Ground_Ornament_69
+  - first:
+      213: -2066689092415548909
+    second: LVL2_Ground_Ornament_70
+  - first:
+      213: -6082047319894473362
+    second: LVL2_Ground_Ornament_71
+  - first:
+      213: 568765320856845402
+    second: LVL2_Ground_Ornament_72
+  - first:
+      213: -4054523789316046625
+    second: LVL2_Ground_Ornament_73
+  - first:
+      213: -4449788920810114863
+    second: LVL2_Ground_Ornament_74
+  - first:
+      213: 3071449575412601201
+    second: LVL2_Ground_Ornament_75
+  - first:
+      213: 5757951964616329175
+    second: LVL2_Ground_Ornament_76
+  - first:
+      213: 1102958402020419300
+    second: LVL2_Ground_Ornament_77
+  - first:
+      213: 2781265771576358435
+    second: LVL2_Ground_Ornament_78
+  - first:
+      213: 3039007155321698147
+    second: LVL2_Ground_Ornament_79
+  - first:
+      213: -7758149421651691749
+    second: LVL2_Ground_Ornament_80
+  - first:
+      213: -7639590544477701832
+    second: LVL2_Ground_Ornament_81
+  - first:
+      213: -8753462835357359184
+    second: LVL2_Ground_Ornament_82
+  - first:
+      213: 2571547614543894939
+    second: LVL2_Ground_Ornament_83
+  - first:
+      213: -1928977397209917634
+    second: LVL2_Ground_Ornament_84
+  - first:
+      213: 5590135309187745238
+    second: LVL2_Ground_Ornament_85
+  - first:
+      213: -5687595574124801148
+    second: LVL2_Ground_Ornament_86
+  - first:
+      213: 5872971056829093658
+    second: LVL2_Ground_Ornament_87
+  - first:
+      213: 3666075876943610452
+    second: LVL2_Ground_Ornament_88
+  - first:
+      213: -938434233284904771
+    second: LVL2_Ground_Ornament_89
+  - first:
+      213: 4926193358525756080
+    second: LVL2_Ground_Ornament_90
+  - first:
+      213: -1954011703964193781
+    second: LVL2_Ground_Ornament_91
+  - first:
+      213: -7995188317099241241
+    second: LVL2_Ground_Ornament_92
+  - first:
+      213: 4238577617485140099
+    second: LVL2_Ground_Ornament_93
+  - first:
+      213: 3048700637118262867
+    second: LVL2_Ground_Ornament_94
+  - first:
+      213: 1783891285622202085
+    second: LVL2_Ground_Ornament_95
+  - first:
+      213: 5124016753109111207
+    second: LVL2_Ground_Ornament_96
+  - first:
+      213: 4904214945899449279
+    second: LVL2_Ground_Ornament_97
+  - first:
+      213: 3432606505333065754
+    second: LVL2_Ground_Ornament_98
+  - first:
+      213: -1089048120819723450
+    second: LVL2_Ground_Ornament_99
+  - first:
+      213: 3058189796666862929
+    second: LVL2_Ground_Ornament_100
+  - first:
+      213: -3877899807041734302
+    second: LVL2_Ground_Ornament_101
+  - first:
+      213: -6812394464157034703
+    second: LVL2_Ground_Ornament_102
+  - first:
+      213: 4588296745759800060
+    second: LVL2_Ground_Ornament_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc084403873f0efe0800000000000000
+      internalID: -1161661006330167092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb3027a0c37bf2a0800000000000000
+      internalID: -6702636349136028673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972695ab3c6723e20800000000000000
+      internalID: 3328853657597338233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15404e82dd0912140800000000000000
+      internalID: 4693191566244971601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f4adc8948881b0800000000000000
+      internalID: -5654123540343621806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86235d44a80d64ed0800000000000000
+      internalID: -2430025656640916888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f590222b191060800000000000000
+      internalID: 6924595735448384864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66545b56baaf76f70800000000000000
+      internalID: 9180581979470775654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f27e2cafdf8f70800000000000000
+      internalID: 9191811295093126868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d9744980af1f20800000000000000
+      internalID: 3395609155480441676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db35408e1a59900800000000000000
+      internalID: 690636135748320609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2d8078a604149f0800000000000000
+      internalID: -486036458503089490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca2c80f794d6ba0800000000000000
+      internalID: -6094133910805762923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d737d5fe10f5ecc0800000000000000
+      internalID: -3682273104541304873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd45164848c8f790800000000000000
+      internalID: -7496021367019188805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624fa54f97415cb0800000000000000
+      internalID: -4877038172071050655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741cfe7311ff1d5e0800000000000000
+      internalID: -1886446319473540793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403b71d44eee62b0800000000000000
+      internalID: -5589268108180508601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee31859095e5328b0800000000000000
+      internalID: -5178191410044070930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e068f7b9183440800000000000000
+      internalID: 4915707271211705818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656c77656ecc7eb0800000000000000
+      internalID: -4720671374467898009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa3c3a8d17a73960800000000000000
+      internalID: 7581712243016612601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c7604ad9936aa0800000000000000
+      internalID: -6168917901904984699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44482bf6bbde450800000000000000
+      internalID: 6119753557077148850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9cf6779fb16af80800000000000000
+      internalID: -8095752521887266388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef592006e239ea0800000000000000
+      internalID: -5867294899638501786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c07c32a4eac3e0800000000000000
+      internalID: -2032560896354498373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad685cea91f88bd0800000000000000
+      internalID: -2627584734878208600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2fc86de22b50d90800000000000000
+      internalID: -7132098520633511203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38325dbaa8eee41a0800000000000000
+      internalID: -6823254106063953021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c124acac3878bf10800000000000000
+      internalID: 2285709012880335298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e4ce71e89df620800000000000000
+      internalID: 2809569836810952778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a4727a9c623d50800000000000000
+      internalID: 6715549404963842191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3f18f5bec2ab6c0800000000000000
+      internalID: -4126936719100349509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be151f94bc0160270800000000000000
+      internalID: 8216273035489006059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd02564744722ec0800000000000000
+      internalID: -3593181703216951860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a05dd5c0064f10800000000000000
+      internalID: 2253489513367119106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3f5aa4e648d700800000000000000
+      internalID: 565279701159852550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8240879f9b9fe00800000000000000
+      internalID: 1079098066843478206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8b56047bd720a0800000000000000
+      internalID: -6906310212180013358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f131824b202175870800000000000000
+      internalID: 8671419410346939167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b851f6779d7ef90800000000000000
+      internalID: -6924326795070829708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7ba37b0708c01a0800000000000000
+      internalID: -6841952512283854880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1b366ea83fa010800000000000000
+      internalID: 1202241947221826928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf3e51fce88df80800000000000000
+      internalID: -8081552511239718128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffcedd29a0d32580800000000000000
+      internalID: -8853003017442635789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7bd587fdee7720800000000000000
+      internalID: 2845973661903191644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ad0e8c7764bd60800000000000000
+      internalID: 7905057030598928369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360617745d842da50800000000000000
+      internalID: 6544373289386598499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff898a6c79c0adf10800000000000000
+      internalID: 2295160806111222015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b4a20b42d3c6870800000000000000
+      internalID: 8677377809819782012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4635a2df2f1b2470800000000000000
+      internalID: 8370818622656165451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216e85f8ffb47e650800000000000000
+      internalID: 6262057367875675666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82353a9de8232f200800000000000000
+      internalID: 212287721557938984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be049a01c229fc3d0800000000000000
+      internalID: -3184165693571907349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac6fb609da8ee00800000000000000
+      internalID: 1074299346926094958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f2a5b88190aa610800000000000000
+      internalID: 1633127815897034541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39d786b9c174d90800000000000000
+      internalID: -7113685632609840195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd822f30dff25f0800000000000000
+      internalID: -779126017122312925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621ab294b8955860800000000000000
+      internalID: 7518083054288114276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508353b70387ff440800000000000000
+      internalID: 4971824663261165573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7478d0cffcb2cfa0800000000000000
+      internalID: -5781851164952202113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90db3209224731d90800000000000000
+      internalID: -7128226093401391863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2371c0b251293db60800000000000000
+      internalID: 7769714401758418738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f1c40b9bb146bb0800000000000000
+      internalID: -4943796006605283498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbaa951071fc32a0800000000000000
+      internalID: -6756259877261497380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d90a3ba4659bb90800000000000000
+      internalID: -7225649248298033871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bcbd7326e37f8b0800000000000000
+      internalID: -5118553859918410867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88be1784955af0d0800000000000000
+      internalID: -3388301673232418675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aeef3d3ca406910800000000000000
+      internalID: 1828543653648198200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31295616835a153e0800000000000000
+      internalID: -2066689092415548909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c296cf2a389ba0800000000000000
+      internalID: -6082047319894473362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cbb3ebb09a4e700800000000000000
+      internalID: 568765320856845402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0427c68107bb7c0800000000000000
+      internalID: -4054523789316046625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f4a17d8c2f32c0800000000000000
+      internalID: -4449788920810114863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711ef79d1bff9a20800000000000000
+      internalID: 3071449575412601201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d708bc0eca58ef40800000000000000
+      internalID: 5757951964616329175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6a57aa2de7e4f00800000000000000
+      internalID: 1102958402020419300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326f2c4cb7a099620800000000000000
+      internalID: 2781265771576358435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367f1da08e8bc2a20800000000000000
+      internalID: 3039007155321698147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177c089434855490800000000000000
+      internalID: -7758149421651691749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83939f640e8baf590800000000000000
+      internalID: -7639590544477701832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e0f7dde3758680800000000000000
+      internalID: -8753462835357359184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9954e74ee8ffa320800000000000000
+      internalID: 2571547614543894939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379b830745ea35e0800000000000000
+      internalID: -1928977397209917634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d501862276249d40800000000000000
+      internalID: 5590135309187745238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831532a5f99111b0800000000000000
+      internalID: -5687595574124801148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17d2725f0cf08150800000000000000
+      internalID: 5872971056829093658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524adc169480e230800000000000000
+      internalID: 3666075876943610452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8bcff69030af2f0800000000000000
+      internalID: -938434233284904771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2f0dd62ca5d5440800000000000000
+      internalID: 4926193358525756080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c224245b4f1e4e0800000000000000
+      internalID: -1954011703964193781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e052fef5926b0190800000000000000
+      internalID: -7995188317099241241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809f1bd2e372da30800000000000000
+      internalID: 4238577617485140099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ee0f5a3192f4a20800000000000000
+      internalID: 3048700637118262867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee1d6d3ca7a1c810800000000000000
+      internalID: 1783891285622202085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11838b61a2c1740800000000000000
+      internalID: 5124016753109111207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb8f7872854f0440800000000000000
+      internalID: 4904214945899449279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18821c0e6113af20800000000000000
+      internalID: 3432606505333065754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643db3f018ce2e0f0800000000000000
+      internalID: -1089048120819723450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6d06ca6fd07a20800000000000000
+      internalID: 3058189796666862929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b8b6ebaeee2ac0800000000000000
+      internalID: -3877899807041734302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_102
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137151614538571a0800000000000000
+      internalID: -6812394464157034703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL2_Ground_Ornament_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf7179497ecaf30800000000000000
+      internalID: 4588296745759800060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8c6948c92026fdd459cf7717ff9b6071, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
