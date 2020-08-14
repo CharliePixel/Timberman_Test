@@ -1,0 +1,1525 @@
+fileFormatVersion: 2
+guid: 0bff8143c2090f045a9a991625c7b8c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5608183265036369432
+    second: Gameplay_Stuff_0
+  - first:
+      213: 4228676927083761186
+    second: Gameplay_Stuff_1
+  - first:
+      213: 2030577515319184262
+    second: Gameplay_Stuff_2
+  - first:
+      213: 5618467538841465795
+    second: Gameplay_Stuff_3
+  - first:
+      213: 5674060350684998476
+    second: Gameplay_Stuff_4
+  - first:
+      213: 6946239729827369964
+    second: Gameplay_Stuff_0
+  - first:
+      213: -7787290506083003776
+    second: Gameplay_Stuff_1
+  - first:
+      213: -5652520785412688430
+    second: Gameplay_Stuff_2
+  - first:
+      213: -5824075797920362401
+    second: Gameplay_Stuff_3
+  - first:
+      213: 3731113174125647451
+    second: Gameplay_Stuff_4
+  - first:
+      213: -5750989048833606166
+    second: Gameplay_Stuff_5
+  - first:
+      213: 1492337210075711242
+    second: Gameplay_Stuff_6
+  - first:
+      213: 298850745703232296
+    second: Gameplay_Stuff_7
+  - first:
+      213: 9127273614959008644
+    second: Gameplay_Stuff_8
+  - first:
+      213: 1783125315138944880
+    second: Gameplay_Stuff_5
+  - first:
+      213: -2082426702286669867
+    second: Gameplay_Stuff_6
+  - first:
+      213: -1313272905374547366
+    second: Gameplay_Stuff_7
+  - first:
+      213: 1880178834840545936
+    second: Gameplay_Stuff_8
+  - first:
+      213: -2436448554804720575
+    second: Gameplay_Stuff_9
+  - first:
+      213: -5873211238595354016
+    second: Gameplay_Stuff_10
+  - first:
+      213: 3214828604404938193
+    second: Gameplay_Stuff_9
+  - first:
+      213: -2950322637685079453
+    second: Gameplay_Stuff_10
+  - first:
+      213: 2384960160706165869
+    second: Gameplay_Stuff_11
+  - first:
+      213: 5607428061559918152
+    second: Gameplay_Stuff_12
+  - first:
+      213: -5333293075995465846
+    second: Gameplay_Stuff_13
+  - first:
+      213: 3465710163195475880
+    second: Gameplay_Stuff_11
+  - first:
+      213: -2584490660667709523
+    second: Gameplay_Stuff_12
+  - first:
+      213: -1997220235496309058
+    second: Gameplay_Stuff_13
+  - first:
+      213: -4392402715933016094
+    second: Gameplay_Stuff_14
+  - first:
+      213: -7598048434535310724
+    second: Gameplay_Stuff_15
+  - first:
+      213: 7694829980539791321
+    second: Gameplay_Stuff_14
+  - first:
+      213: -857314515498895927
+    second: Gameplay_Stuff_15
+  - first:
+      213: 2421786917979161103
+    second: Gameplay_Stuff_16
+  - first:
+      213: 3324838033349239111
+    second: Gameplay_Stuff_17
+  - first:
+      213: -8056354774906038980
+    second: Gameplay_Stuff_16
+  - first:
+      213: -8736018167264795949
+    second: Gameplay_Stuff_17
+  - first:
+      213: -6564520908555659162
+    second: Gameplay_Stuff_18
+  - first:
+      213: -1886079863432083561
+    second: Gameplay_Stuff_19
+  - first:
+      213: -8383852414856062291
+    second: Gameplay_Stuff_18
+  - first:
+      213: -7552416568994038771
+    second: Gameplay_Stuff_19
+  - first:
+      213: 7353962723916414549
+    second: Gameplay_Stuff_20
+  - first:
+      213: 8325661421337315108
+    second: Gameplay_Stuff_21
+  - first:
+      213: -1430701988889872017
+    second: Gameplay_Stuff_22
+  - first:
+      213: -927486151045356604
+    second: Gameplay_Stuff_23
+  - first:
+      213: 3840099372884408185
+    second: Gameplay_Stuff_24
+  - first:
+      213: -2764446095730779190
+    second: Gameplay_Stuff_25
+  - first:
+      213: 3380911450163474165
+    second: Gameplay_Stuff_26
+  - first:
+      213: -1359260701682638685
+    second: Gameplay_Stuff_27
+  - first:
+      213: -6258431673018612903
+    second: Gameplay_Stuff_20
+  - first:
+      213: 4313887938233848258
+    second: Gameplay_Stuff_21
+  - first:
+      213: 7472616534428409106
+    second: Gameplay_Stuff_22
+  - first:
+      213: -5969339600585792850
+    second: Gameplay_Stuff_23
+  - first:
+      213: -5635772414767755442
+    second: Gameplay_Stuff_24
+  - first:
+      213: 7455853589274776771
+    second: Gameplay_Stuff_25
+  - first:
+      213: 1133082717915662439
+    second: Gameplay_Stuff_26
+  - first:
+      213: -3800004662774372131
+    second: Gameplay_Stuff_27
+  - first:
+      213: 7341804409978521352
+    second: Gameplay_Stuff_28
+  - first:
+      213: 6930515553343278138
+    second: Gameplay_Stuff_29
+  - first:
+      213: -5391097945738833501
+    second: Gameplay_Stuff_28
+  - first:
+      213: 4245366451200636542
+    second: Gameplay_Stuff_29
+  - first:
+      213: -5245981016754094740
+    second: Gameplay_Stuff_30
+  - first:
+      213: 1705876758608329714
+    second: Gameplay_Stuff_31
+  - first:
+      213: -5081513897138202316
+    second: Gameplay_Stuff_32
+  - first:
+      213: -988430054701532894
+    second: Gameplay_Stuff_33
+  - first:
+      213: -6759496186013696106
+    second: Gameplay_Stuff_34
+  - first:
+      213: 2112574493419050060
+    second: Gameplay_Stuff_35
+  - first:
+      213: 9208056087555844439
+    second: Gameplay_Stuff_36
+  - first:
+      213: 6344859386323403534
+    second: Gameplay_Stuff_37
+  - first:
+      213: 7820517513817676457
+    second: Gameplay_Stuff_38
+  - first:
+      213: 2227323607676576325
+    second: Gameplay_Stuff_39
+  - first:
+      213: -4215683903014324043
+    second: Gameplay_Stuff_40
+  - first:
+      213: -9159168165296426179
+    second: Gameplay_Stuff_41
+  - first:
+      213: -7730301609579041120
+    second: Gameplay_Stuff_42
+  - first:
+      213: -1442065354164703063
+    second: Gameplay_Stuff_43
+  - first:
+      213: 6262614196505240592
+    second: Gameplay_Stuff_44
+  - first:
+      213: 4347451754899331355
+    second: Gameplay_Stuff_30
+  - first:
+      213: 6828329243171959762
+    second: Gameplay_Stuff_31
+  - first:
+      213: 3053592321868567280
+    second: Gameplay_Stuff_32
+  - first:
+      213: -4965677395779203575
+    second: Gameplay_Stuff_33
+  - first:
+      213: 3767276964248343147
+    second: Gameplay_Stuff_34
+  - first:
+      213: 6194432915947562903
+    second: Gameplay_Stuff_35
+  - first:
+      213: 4101519808380113684
+    second: Gameplay_Stuff_36
+  - first:
+      213: -8912387046508561687
+    second: Gameplay_Stuff_37
+  - first:
+      213: -6263623815893061633
+    second: Gameplay_Stuff_38
+  - first:
+      213: 3358825227481704824
+    second: Gameplay_Stuff_39
+  - first:
+      213: -6166087461260720108
+    second: Gameplay_Stuff_40
+  - first:
+      213: -7840477570186223800
+    second: Gameplay_Stuff_41
+  - first:
+      213: 3786009567066008482
+    second: Gameplay_Stuff_42
+  - first:
+      213: -4166040796291388118
+    second: Gameplay_Stuff_43
+  - first:
+      213: -6031638678950449533
+    second: Gameplay_Stuff_44
+  - first:
+      213: -1197347025359401399
+    second: Gameplay_Stuff_45
+  - first:
+      213: -5479758959537983629
+    second: Gameplay_Stuff_46
+  - first:
+      213: 6962486316525593058
+    second: Gameplay_Stuff_47
+  - first:
+      213: 5581745234880968682
+    second: Gameplay_Stuff_48
+  - first:
+      213: -3093985992091777219
+    second: Gameplay_Stuff_45
+  - first:
+      213: 6485650792967340161
+    second: Gameplay_Stuff_46
+  - first:
+      213: -8343584132761523224
+    second: Gameplay_Stuff_47
+  - first:
+      213: -654553127550019734
+    second: Gameplay_Stuff_48
+  - first:
+      213: 6628681838626227727
+    second: Gameplay_Stuff_49
+  - first:
+      213: 581460408795376994
+    second: Gameplay_Stuff_50
+  - first:
+      213: 966905740839003999
+    second: Gameplay_Stuff_51
+  - first:
+      213: 729522379205118007
+    second: Gameplay_Stuff_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gameplay_Stuff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d0154b30066060800000000000000
+      internalID: 6946239729827369964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08296262b8cfde390800000000000000
+      internalID: -7787290506083003776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5f6f34b463e81b0800000000000000
+      internalID: -5652520785412688430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d1084be9bc2fa0800000000000000
+      internalID: -5824075797920362401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b561a80e9a397c330800000000000000
+      internalID: 3731113174125647451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ffcd6d60feeb810800000000000000
+      internalID: 1783125315138944880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73a6b82fbb913e0800000000000000
+      internalID: -2082426702286669867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a524106204156cde0800000000000000
+      internalID: -1313272905374547366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae0ec40bcb71a10800000000000000
+      internalID: 1880178834840545936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d53253359d5d9c20800000000000000
+      internalID: 3214828604404938193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ccf741395e07d0800000000000000
+      internalID: -2950322637685079453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a73ab3080da81030800000000000000
+      internalID: 3465710163195475880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da72695ff6b022cd0800000000000000
+      internalID: -2584490660667709523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe350d07c27844e0800000000000000
+      internalID: -1997220235496309058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a91d291789ca60800000000000000
+      internalID: 7694829980539791321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f6ea8df43a14f0800000000000000
+      internalID: -857314515498895927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3514314404123090800000000000000
+      internalID: -8056354774906038980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a2d423cd63c680800000000000000
+      internalID: -8736018167264795949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa1433f5a296ab80800000000000000
+      internalID: -8383852414856062291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf559152d603790800000000000000
+      internalID: -7552416568994038771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530cae4d859529a0800000000000000
+      internalID: -6258431673018612903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1554f49320edb30800000000000000
+      internalID: 4313887938233848258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd05d752114b760800000000000000
+      internalID: 7472616534428409106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2696b9245a82da0800000000000000
+      internalID: -5969339600585792850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f82de29d6b9c1b0800000000000000
+      internalID: -5635772414767755442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45b0e2653887760800000000000000
+      internalID: 7455853589274776771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684f768ab489bf00800000000000000
+      internalID: 1133082717915662439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8618a74eba34bc0800000000000000
+      internalID: -3800004662774372131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a116ea4bf8fe25b0800000000000000
+      internalID: -5391097945738833501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76bc216b429aea30800000000000000
+      internalID: 4245366451200636542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b195ce85650455c30800000000000000
+      internalID: 4347451754899331355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d33da4c44913ce50800000000000000
+      internalID: 6828329243171959762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f216d1c90a806a20800000000000000
+      internalID: 3053592321868567280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec463c7be561bb0800000000000000
+      internalID: -4965677395779203575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d888607e084430800000000000000
+      internalID: 3767276964248343147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797aa04eaeb07f550800000000000000
+      internalID: 6194432915947562903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41399b1f8868be830800000000000000
+      internalID: 4101519808380113684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea70187337d05480800000000000000
+      internalID: -8912387046508561687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff640753532319a0800000000000000
+      internalID: -6263623815893061633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879eaa2afb1fc9e20800000000000000
+      internalID: 3358825227481704824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41880919f18ad6aa0800000000000000
+      internalID: -6166087461260720108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd1a7c037013390800000000000000
+      internalID: -7840477570186223800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab233164ab9a8430800000000000000
+      internalID: 3786009567066008482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d2449e7ff3f26c0800000000000000
+      internalID: -4166040796291388118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee6a714905b4ca0800000000000000
+      internalID: -6031638678950449533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c5510224ff05d0800000000000000
+      internalID: -3093985992091777219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1808c04a809a10a50800000000000000
+      internalID: 6485650792967340161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe92dff62a53c80800000000000000
+      internalID: -8343584132761523224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6792c1066f8ae6f0800000000000000
+      internalID: -654553127550019734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064660130fcdfb50800000000000000
+      internalID: 6628681838626227727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da33d3923c11800800000000000000
+      internalID: 581460408795376994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57aefdf5a32b6d00800000000000000
+      internalID: 966905740839003999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Stuff_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738083c1db8cf1a00800000000000000
+      internalID: 729522379205118007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8c6948c92026fdd459cf7717ff9b6071, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

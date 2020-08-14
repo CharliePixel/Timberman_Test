@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: SpikesRight
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 33659810987616896, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  - {fileID: -2506756368395451990, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  - {fileID: 6839031409107684491, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  - {fileID: 6678245912877567066, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  - {fileID: 7281768657400266260, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  - {fileID: 3818987054837374449, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  - {fileID: -1405464503898560149, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  - {fileID: 4717433169257173421, guid: 273996aeea77b524b9300f8165c4973c, type: 3}
+  m_MinSpeed: 24
+  m_MaxSpeed: 24
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
